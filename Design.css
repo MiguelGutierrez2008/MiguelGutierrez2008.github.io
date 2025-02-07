@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(119, 0, 0);
+    height: 100%;
+}
+.Maincontainer{
+   background-color: rgb(248, 208, 159); 
+   height: 85vh;
+   width: 50vw;
+   margin: 400px;
+   color: rgb(172, 1, 1);
+   
+  
+
+}
+
+.PRIMENU a{
+    margin: 50PX;
+
+}
+.PRIMENU{
+
+    text-align: center;
+    
+}
+.TACOS{
+    text-align: left;
+}
+.DRINKSW{
+    text-align: left;
+}
+.DES{
+    text-align: left;
+    text-size-adjust: 10px;
+}
+a{
+    margin: 10px;
+}
