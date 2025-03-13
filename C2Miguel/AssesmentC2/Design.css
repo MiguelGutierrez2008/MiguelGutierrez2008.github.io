@@ -1,0 +1,72 @@
+.MainContainer{
+  height: 90;
+  width: 100%;
+}
+
+
+
+.ProductMenu  {
+  
+  display: flex;
+  display: flexbox; 
+  align-items: center;
+  margin-left: 17%;
+  display: inline-block;
+  margin-right: 20px;
+  
+}
+.ProductMenu article{
+  align-items: center;
+  display: inline-block;
+  margin-right: 20px;
+}
+.Header{
+  display: flex;
+  align-items: center;
+}
+.Header a{
+  text-align: left;
+  margin-left: 5%;
+}
+.Header h1{
+  align-items: center;
+  margin-left: 28%;
+}
+footer{
+  
+  background-color: rgb(197, 197, 197);
+  overflow: hidden;
+}
+.footer {
+  background-color: rgb(197, 197, 197);
+  
+  
+}
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
+.subheader{
+  text-align: center;
+  
+}
+.Menu{
+  text-align: right;
+  margin-right: 20px;
+  background-color: rgb(192, 192, 192);
+  
+}
+.Menu a {
+  display: inline-block;
+  margin-left: 35px;
+}
+.Product {
+  display: flex;
+}
+.Product article{
+  margin-left: 3%;
+  display: inline-block;
+  margin-right: 18%;
+}
